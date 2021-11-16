@@ -1,0 +1,21 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "LIRA-8",
+	"origin" : "LIRA-8.vst",
+	"type" : "VST",
+	"subtype" : "Instrument",
+	"embed" : 0,
+	"snapshot" : 	{
+		"pluginname" : "LIRA-8.vst",
+		"plugindisplayname" : "LIRA-8",
+		"pluginsavedname" : "~/Downloads/LIRA-8-VST3-VST2-AUi-MacOS/LIRA-8.vst",
+		"pluginsaveduniqueid" : 0,
+		"version" : 1,
+		"isbank" : 0,
+		"isbase64" : 1,
+		"blob" : "1048.CMlaKA....fQPMDZ....AvTZxEF.A.fA....A........................................L.2VMjLgL8....OCEVau0VZrU1TkQGco41Yy4COvElbg01bf.WXxEVawziHw3BLh.BbgIWXsISOhDiKvHBHvElbg01L8HRLt.iHf.WXxEVazziHw3BLh.BbgIWXsUSOh.iKvHBHvElbg0lM8HBLt.iHf.WXxEVa2ziHv3BLh.BbgIWXsgSOh.iKvHBHvElbg0VN8HBLtTSMwDCNw.yM2jSM2DSMyLiLvLSLh.BbgIWXsECL8HBLtTCLyjyL2.CL0jSN1bCLzDCLwTiMh.BbgIWXsESL8HBLtHSMwjiM3TCLxjSN3LSMx.SMvbCNh.BbgIWXsEiL8HBLtTCLyjyL2.CL0jSN1bCLzDCLwTiMh.BbgIWXsEyL8HBLtfiM1DCMwbyL1TCL2PSL0byMwPCNh.BbgIWXsECM8HBLt.iHf.WXxEVawTSOh.iKvHBHvElbg0VL1ziHv3BLh.BbgIWXsEyM8HRLt.iHf.WXxEVawfSOh.iK4.SM0DSL2jiMzbCMzTiM2fyMwDiHf.WXxEVawjSOh.iKvHBHvElbg0lLvziHv3BLh.BbgIWXsISL8HBLtTiHf.WXxEVaxHSOh.iK0HBHvElbg0lLyziHv3RMh.BbgIWXsICM8HBLtTiHf.WXxEVaxTSOh.iKvPyMxPCMvjCMyDiLwjSLv.SN0HiHf.WXxEVaxXSOh.iKxXyM2DiM0HiM4fSMwXCNzTyMvLiHf.WXxEVaxbSOh.iKvbCL3XiMwPSMwjyL0biM3DiL2PiHf.WXxEVaxfSOh.iKvHBHvElbg0lL4ziHv3BLh.BbgIWXsMCL8HBLt.iHf.WXxEVayDSOh.iKvHBHvElbg01LxziHv3BLh.BbgIWXsMyL8HBLt.iHf.WXxEVayPSOh.iKvHBHvElbg01L0ziHv3BLh.BbgIWXsMiM8HBLtbSM0jCL0TCL3jSN0.SM1DSMxLCMh.BbgIWXsMyM8HBLtHSM4fCMxTSLzjSNwbiMvHSMyjSLh.BbgIWXsMCN8HBLt.iHf.WXxEVayjSOh.iKvHBHvElbg0FMvziHv3xM2jSMxbSMzPSN2TiL3.yM1DyMxHBHvElbg0FMwziHv3xL3TCNxXyM1XCM4.SNyXiL2jyLh.BbgIWXsQiL8HRLt.iHf.WXxEVazLSOh.iKvHBHvElbg0FMzziHv3RMvLSNybCLvTSN4XyMvPSLvDSM1HBHvElbg0FM0ziHv3hM4HSNwLCMwLCLzbyM4.SMxbyLzHBHvElbg0FM1ziHw3BLh.BbgIWXsQyM8HRLt.iHu3COuLTXs8VaowVYSUFczklamMmO.."
+	}
+
+}

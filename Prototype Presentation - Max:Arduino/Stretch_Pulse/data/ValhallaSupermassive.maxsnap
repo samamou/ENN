@@ -1,0 +1,23 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "ValhallaSupermassive",
+	"origin" : "ValhallaSupermassive.vstinfo",
+	"type" : "VST",
+	"subtype" : "AudioEffect",
+	"embed" : 0,
+	"snapshot" : 	{
+		"pluginname" : "ValhallaSupermassive.vstinfo",
+		"plugindisplayname" : "ValhallaSupermassive",
+		"pluginsavedname" : "C74_VST:/ValhallaSupermassive",
+		"pluginsaveduniqueid" : 0,
+		"version" : 1,
+		"isbank" : 0,
+		"isbase64" : 1,
+		"sliderorder" : [  ],
+		"slidervisibility" : [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 ],
+		"blob" : "649.CMlaKA....fQPMDZ....ALWSgMG.AL......A........................................HPSVMjLgPj....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVEFanEFarE1T0AWYx0VXyMWZ1UFHvwVcmklaVUlbyk1at0iHw3xLt.iHf.mbkMWYz4TXsUVOhPzazQWYjUTZmgFcn8jbhkFcyIBHMkFd8HBLt.iHfPTYrEVdSkmai0iHv3BNwDSM2PSNyTSNwLCL3TSNh.BQkwVX44zazUVOh.iKzLCLzfSNy.SL1fSL0DCN1HBHDUFagk2WMMWOhDiKvHBHDUFagk2UgIGb8HBLtXyM2DiM0LiL4PSM1LiL4LiHfLDakElb8HBLtDSM4jSMvXSM3XyM4.CL3TiHfXTYkQlXgM1Z8HBLtHiM1TyMvbSL2.SN1LiL3biHfPTYtMWZzkWOh.iKyDSL0PCMvLCL4.CM2XSN4HBHWkFYzgVOh.iKvHBHL81cCUGc8HBLtLSL1jSNxDSNyPiMvPiMzTiHffTZmg1P0QWOh.iK3DCL2LSL3fyM3DyMyfiL3HBHM8FYREFck0iHv3hLvDSMwjSLyDiM1.CM1DCMh.RSuQFQkAGcn0iHv3BLh.RSuQVY8HBLt.CNyLyLyLyL0fSL1fiMvHiHfHUYyUlb1UFYwziHv3BLh.hTkMWYxYWYjISOh.iKvfiL1DyMwfiMv.SN3fyL3fiHfHUYyUlb1UFYyziHv3BLh.hTkMWYxYWYjQSOh.iKvHBHskFdL81Xq0iHvHBH0k1UoQFcn0iH3HCLh.RcogTYocFZz0iHzLSMh7hO.."
+	}
+
+}
