@@ -1,7 +1,9 @@
 # Being-With
 Video Documentation of Final artifact:
+------------------------
 Process Video
 https://vimeo.com/653946778
+------------------------
 Performance Video
 https://vimeo.com/653948297
 ------------------------
